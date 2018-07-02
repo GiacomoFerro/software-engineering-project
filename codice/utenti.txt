@@ -1,0 +1,3 @@
+segretario1:pass:1
+magazziniere1:pass:2
+responsabile1:pass:3

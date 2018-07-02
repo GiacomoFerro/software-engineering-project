@@ -1,0 +1,5 @@
+palla:è una palla:tennis:stoffa:plastica:colori
+parastinco:è un parastinco:calcio:plastica:cuoio:ferro
+ciabatte:sole:mare:plastica:stoffa:altro
+esempio:descrizione:caso:mat1:mat1:mat1
+corda:è una corda:a:b:c:d
