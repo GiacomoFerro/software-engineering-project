@@ -1,6 +1,4 @@
 # PROGETTO_ING_SW
- software engineering software
+ software engineering project
 
-
-Leggere la parte di documentazione.
-
+You can read the documentation part in order to have ad explanation
