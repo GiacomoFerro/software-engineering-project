@@ -1,4 +1,4 @@
-# PROGETTO_ING_SW
+# PROGETTO-ING-SW
  software engineering project
 
 You can read the documentation part in order to have ad explanation
