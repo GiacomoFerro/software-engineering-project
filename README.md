@@ -1,4 +1,5 @@
-# PROGETTO-ING-SW
- software engineering project
+# sw-eng-project
+
+Assignment for Software Engineering course.
 
 You can read the documentation part in order to have ad explanation
