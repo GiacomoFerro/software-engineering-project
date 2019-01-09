@@ -1,4 +1,4 @@
-# sw-engineering-project
+# software-engineering-project
 
 Assignment for Software Engineering course.
 
